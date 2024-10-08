@@ -8,14 +8,12 @@
 
 [![](https://visitcount.itsvg.in/api?id=Akhil4826&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<div align="left">
 - 🔭 Currently focused 🌍.<br/> 
 - 🌱 Learning and applying Machine Learning concepts.<br/>
 - 👨‍💻 Passionate about solving problems using Java,Python, and Web Technologies.<br/>
 - 🚀 Exploring new technologies and building cool projects.<br/>
 - 🎯 2024 Goal: Master Fullstack development & deploy AI projects.<br/>
 - ⚡ Fun Fact: I love contributing to open-source projects!<br/>
-</div>
 
 <hr>
 
