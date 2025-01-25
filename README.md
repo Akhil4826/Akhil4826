@@ -12,7 +12,7 @@
 - 🌱 Learning and applying Machine Learning concepts.<br/>
 - 👨‍💻 Passionate about solving problems using Java,Python, and Web Technologies.<br/>
 - 🚀 Exploring new technologies and building cool projects.<br/>
-- 🎯 2024 Goal: Master Fullstack development & deploy AI projects.<br/>
+- 🎯 2025 Goal: Master Fullstack development & deploy AI projects.<br/>
 - ⚡ Fun Fact: I love contributing to open-source projects!<br/>
 
 <hr>
