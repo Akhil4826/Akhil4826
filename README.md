@@ -19,7 +19,7 @@
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Let's Connect
 <div align="center">
-    <a href="https://github.com/Akhil4826"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://drive.google.com/file/d/1OIzG4-CbJ-592LRPJ1UontGREQR-mZBD/view?usp=drivesdk"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="Resume"></a>
     <a href="mailto:akhilteotia19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="https://www.linkedin.com/in/akhil-teotia-36427a268/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
